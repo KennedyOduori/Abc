@@ -1,0 +1,5 @@
+#!/bin/bash
+
+touch '*\\'\''"Best School"'\''\\*$?********:)'   # create the file
+echo "Best School" > '*\\'\''"Best School"'\''\\*$?********:)'   # write to the file
+echo "File created and text written to it."
