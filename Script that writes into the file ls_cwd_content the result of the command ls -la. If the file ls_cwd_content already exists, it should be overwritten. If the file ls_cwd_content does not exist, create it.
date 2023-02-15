@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Run the ls -la command and store the output in the file ls_cwd_content
+ls -la > ls_cwd_content
