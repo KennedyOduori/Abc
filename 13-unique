@@ -1,0 +1,3 @@
+$ echo "apple banana cherry banana cherry date apple elderberry" | ./wordcount.sh
+date
+elderberry
